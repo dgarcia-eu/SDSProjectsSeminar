@@ -5,6 +5,8 @@ Social Data Science (SDS) provides a broad approach to the quantitative analysis
 
 This seminar introduces a set of examples of research projects in Social Data Science as introductory lectures. Students build on those lectures to work on Social Data Science research projects in small groups under the guidance of the lecturer. These projects include the motivation of a research question, the design of a Social Data Science project to assess it, as well as data retrieval and analysis. Students can take the seminar along with the course "Social Media Data Analysis" to apply the methods they learn in the course as part of their projects.
 
+To learn more about the projects to be developed in the course, check the [Projects Guide](https://github.com/dgarcia-eu/SDSProjectsSeminar/blob/master/Projects_Guidance/ProjectsGuide.md). 
+
 ## Calendar
 
 **13.4: Introduction to the course and research background in Social Data Science**  
