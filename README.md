@@ -29,7 +29,7 @@ To learn more about the projects to be developed in the course, check the [Proje
 
 **6.7: Project presentations**  
 
-*20.7: Project report deadline (tentative)*
+*27.8: Project report deadline (tentative)*
 
 
 
