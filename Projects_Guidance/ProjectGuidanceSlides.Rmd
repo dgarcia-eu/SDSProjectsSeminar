@@ -1,7 +1,7 @@
 ---
 title: "Projects Guide"
 author: "David Garcia <br><br> *TU Graz*"
-date: "Foundations of Computational Social Systems"
+date: "Current Topics and Projects in Social Data Science"
 output:
   xaringan::moon_reader:
     lib_dir: libs 
@@ -34,66 +34,124 @@ options(htmltools.dir.version = FALSE)
 
 layout: true
 
-<div class="my-footer"><span>David Garcia - Foundations of Computational Social Systems</span></div> 
+<div class="my-footer"><span>David Garcia - Current Topics and Projects in Social Data Science</span></div> 
 
 ---
-#Projects for evaluation
 
-The course assessment is based on a final course project. Exercise points are optional,the final project is **mandatory**.
+# Outline
 
-Projects are done in groups that can have 
-- at most 4 students 
-- must mix students with different backgrounds (at least two different backgrounds per group).
+## Background in SDS/CSS: reading pointers
 
-The purpose of the project is to show what you have learned in the course in terms of data management, analysis, statistics, and interpretation.
+## Course logistics and projects plan
+
+## Ideas, resources, and discussion
+
+
+---
+
+# Founding Computational Social Science
+.center[![:scale 55%](CSS.png)]
+[Computational Social Science - Lazer et al, Science, 2009](https://www.science.org/doi/10.1126/science.1167742)
+
+---
+
+# Bit By Bit
+
+.center[![:scale 100%](BitByBit.png)]
+Bit By Bit: Social Research in the Digital Age - Matthew Salganik, 2017. https://www.bitbybitbook.com/
+
+---
+
+# Hannah Wallach's perspective
+
+.center[![:scale 55%](Wallach.png)]
+[Computational social science ≠ computer science + social data - Hannah Wallach, Communications of the ACM, 2018](https://dl.acm.org/doi/pdf/10.1145/3132698)
+
+---
+
+# Nature's special issue
+.center[![:scale 33%](natureCSS.jpg)]
+
+[Meaningful measures of human society in the twenty-first century. Lazer et al.](https://www.nature.com/articles/s41586-021-03660-7)
+
+---
+
+# New bridges between disciplines
+
+.center[![:scale 90%](Sen.png)]
+
+[A total error framework for digital traces of human behavior on online platforms. Sen et al, Public Opinion Quarterly, 2021](https://academic.oup.com/poq/article-pdf/85/S1/399/40449208/nfab018.pdf)
+
+
+---
+
+# A project-based seminar
+
+The course contains lectures on recent research in Social Data Science and a large practical part to develop a data analysis project under my supervision. The course assessment is based on a project report and a presentation.
+
+Projects are done in groups of two students. Only a group of 3 or 1 is allowed if the course has an odd number of students.
+
+The purpose of the project is to learn by doing in a small data science project including data management, analysis, statistics, and interpretation.
 
 Projects have to start from a research question and have an empirical focus, but at the same time critically reflect on methods, conclusions, and limitations.
 
 ---
 
-#Projects timeline
+#Course calendar
 
-The deadlines are up to the end of the day in Austria marked by each date.
-
-- **19.12.2022:** Registration of projects.
-- **03.02.2023, 14:00:** Project presentations session day 1.
-- **17.02.2023:** Deadline for submission of final report. 
-
-We offer a second date for project presentations and the submission of the final report for project teams that cannot make it on the first date:
-
-- **03.03.2023, 14:00** Second date for project presentations session day 2.
-- **17.03.2023** Second date for submission of final report.
-
-You can get guidance for your project on two special online sessions with me:  
-at 14:15 on 16.12.2022 and 27.01.2023.
-
+- 13.4: Introduction to the course and research background in SDS
+- *20.4: Emotion research with digital traces*
+- *27.4: Representation issues with social media data*
+- *4.5: Gender inequality in and through digital traces*
+- *11.5: Complex privacy issues in digital platforms*
+- *25.5: Polarization and politicisation in social media*
+- 1.6: Project design feedback session
+- **14.6: Registration of projects deadline**
+- 15.6, 22.6: Project guidance, discussion, and selected lectures on project-related topics
+- **29.6 and 6.7: Project presentations.** We might need to use 29.06 for presentations too if there are too many groups.
+- **27.8: Project report deadline**
 ---
 
 # Project steps
 
-**1. Form a group and choose a topic**
-  - Start now! You can find partners on discord and around lectures. It can be coupled with Intro to CSS but it is not required.
+- **1. Form a group and choose a topic**
+  - Start now! It's never too soon to think and start readings about a topic
+  - You can get input from me via email or around lectures
 
-**2. Project registration**. Deadline: 19.12.2022
 
-**3. Project presentations**. On 03.02.2023 or 03.03.2023
+- **2. Project registration**. Deadline: 14.6
+  - Special session to help with registrations on 14.6
+  - More guidance sessions before presentations
 
-**4. Submit the final report**. Deadline 17.02.2023 or 17.03.2023
+
+- **3. Project presentations**. 29.06 and 6.7
+  - There is more time to work and improve after the presentations. Results do not have to be final at the presentation, they are updates on your project state
+
+
+- **4. Submit the final report**. Deadline: 27.8
+
+---
+# Pre-registrations as an example
+
+![](aspredicted.png)
 
 ---
 
-# Project registration
+# Project registrations in this course
 
-- Register your project as a **plain text** email to dgarcia@tugraz.at. 
-- Do not send it to css@tugraz.at, that account will not be monitored any more
+- Register your project as a **plain text** email to david.garcia@uni-konstanz.de. 
 
 A project registration is a short text that includes the following:
 
 1. Project title
-2. Names and email addresses of group members with a small note of disciplinary background of each
-3. Date chosen for the presentation. If you don't choose a date, you will go for the first.
-4. Research question(s)
-5. Planned data retrieval and analysis to address the questions
+2. Names and email addresses of group members
+3. Research question(s)
+4. Planned data retrieval and analysis to address the questions including:
+  - precise data sources and parameters or queries if using an API
+  - exclusion criteria from retrieved data
+  - methods used for all measurement of variables
+  - statistical tests and outcomes
+  - description of other visualizations or outputs (e.g. models)
 
 ---
 
@@ -111,17 +169,18 @@ You can later adapt steps in the planned data retrieval and analysis, but your f
 
 # Project presentations
 
-- **5-minute** presentations about the state of results of their projects
-- Students get questions from lecturers regarding their understanding of the topic and feedback on how to improve the project for the final report.
-- Each presentation has to contain four slides:
+- **15-minute** presentations about the state of results of their projects
+- Students get questions from the audience regarding the topic and feedback on how to improve the project for the final report.
+- Each presentation has to contain four parts:
   1. Research question and motivation
   2. Data and methods
   3. Results
   4. Conclusion and critique
 - All members of the group have to participate in their presentation and answer questions.
-- You can get guidance for your project on the designated sessions (16.12 and 27.01) or on discord up until the first project presentations date (03.02).  
 
-**After 03.02.2023, no more guidance will be provided via discord or email.**
+**After 28.7, no more guidance will be provided email.**
+
+Don't leave your questions for the last minute!
 
 ---
 # Final report structure
@@ -143,9 +202,9 @@ You can later adapt steps in the planned data retrieval and analysis, but your f
 
 # Submitting the final report
 
-Send a final report as a PDF document (max. 6 pages, min. font size 11pt) via email to dgarcia@tugraz.at.
+Send a final report as a PDF document (max. 10 pages, min. font size 11pt) via email to david.garcia@uni-konstanz.de.
 
-References do not count towards this 6-page limit. 
+References do not count towards the page limit. 
 
 Projects can contain a link to a Github repository including the code to produce results, datasets if they can be shared, and additional figures or tables that can be referenced from the project report.
 
@@ -156,26 +215,22 @@ A good synthesis is much better than unnecessary information!
 
 ## Project grading
 
-- 50% for the presentation
-- 50% for the final report
+- 30% for the presentation
+- 70% for the final report
 
-Extra points are given when projects are based on open science principles (e.g. data and codes are available in a Github repository) and when data sources or methods go beyond what is covered in the course. 
+Extra points are given when projects are based on open science principles (e.g. data and codes are available in a Github repository).
 
 **Projects do not need to report "positive results",** what is important is that you show how your have addressed your research questions, document any issues or deviations, and critically reflect on methods and results.
 
-Remember that on top of the project presentation and report you can individually achieve an additional 4x5% (up to 20%) by handing in the exercise solutions.
-
 ---
 
-# Three project paths
+# Two project paths
 
 ### A) Replicating a previous paper
   - Replication has to be critical and based on your own analysis, not the code of others
   - For simple papers, additional analysis beyond replication is expected
 
-### B) Building on your Introduction to Computational Social Systems project
-
-### C) Proposing your own idea
+### B) Proposing your own idea
 
 None of these paths has a higher expected grade, they are all equally valid.
 
@@ -196,6 +251,57 @@ None of these paths has a higher expected grade, they are all equally valid.
 - **Testing Social Impact Theory in the case of COVID19**
 
 - **Sentiment about Donald Trump and income at the regional level**
+
+More (harder) examples at: https://dgarcia.eu/topics-for-student-projects/
+
+---
+
+# Some other ideas/pointers
+
+- Algorithms on social media now that the Twitter algorithm is out
+
+- Whatever is happening on TikTok
+
+- Applications of LLM to Social Data Science questions
+
+- The role of Twitter in the fall of Silicon Valley Bank
+
+- Alt-right communities like Voat, Gab, or thedonald.win
+
+- Analysis of parliamentary records (e.g. Germany, US)
+
+- Analysis of historical corpora (e.g. COHA/COCA)
+
+- Generating novel data: e.g. crawling a newspaper and analyzing the data
+
+---
+
+# Some data source pointers
+
+- (Social) network data collections
+  - [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
+  - [The KONECT project](http://konect.cc/)
+  - [Colorado Index of Complex Networks (ICON)](https://icon.colorado.edu/)
+- Pushshift for Reddit dumps: https://pushshift.io/
+  - Other Pushshift datasets: https://files.pushshift.io/
+- 24 hours of full Twitter data: https://arxiv.org/abs/2301.11429
+- [A Giuthub collection of Twitter dataset links](https://github.com/shaypal5/awesome-twitter-data)
+- [Birdwatch / Community Notes](https://communitynotes.twitter.com/guide/en/under-the-hood/download-data.html)
+- [The Vent dataset](https://cs.paperswithcode.com/paper/sharing-emotions-at-scale-the-vent-dataset) and other [ICWSM datasets and papers](https://www.icwsm.org/2018/datasets/datasets/)
+- [Social Computing datasets at MPI (old)](https://socialnetworks.mpi-sws.org/datasets.html)
+- [ASU social computing repository (old)](http://datasets.syr.edu/pages/datasets.html)
+- [Wikipedia page view stats and more](https://dumps.wikimedia.org/other/analytics/)
+- Commercial API wrappers like [Ensemble Data](https://ensembledata.com/) (for small datasets)
+---
+
+
+# What are you interested in?
+
+.center[![:scale 50%](Finger.png)]
+
+
+
+
 
 
 
