@@ -9,7 +9,7 @@ To learn more about the projects to be developed in the course, check the [Proje
 
 ## Calendar
 
-**13.4: Introduction to the course and research background in Social Data Science**  
+**13.4: Introduction to the course and research background in Social Data Science** -- [[Slides]](https://dgarcia-eu.github.io/SDSProjectsSeminar/Projects_Guidance/ProjectGuidanceSlides.html)  
 
 **20.4: Emotion research with digital traces**  
 
