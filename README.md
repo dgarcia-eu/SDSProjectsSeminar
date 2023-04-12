@@ -25,11 +25,13 @@ To learn more about the projects to be developed in the course, check the [Proje
 
 *14.6: Project registration deadline*  
 
-**15.6, 22.6, 29.6: Project guidance, discussion, and selected lectures on project-related topics**  
+**15.6, 22.6: Project guidance, discussion, and selected lectures on project-related topics**  
 
-**6.7: Project presentations**  
+**29.6: Project presentations day 1**  
 
-*27.8: Project report deadline (tentative)*
+**6.7: Project presentations day 2**  
+
+*27.8: Project report deadline*
 
 
 
