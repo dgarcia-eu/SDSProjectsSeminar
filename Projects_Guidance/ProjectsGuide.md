@@ -32,8 +32,8 @@ You can get guidance for your project on the designated sessions or over email u
 
 #### 4. Submit the final report
 
-Send a final report as a PDF document (max. 6 pages, min. font size 11pt) via email.
-References do not count towards this 6-page limit. Projects can contain a link to a Github repository including the code to produce results, datasets if they can be shared, and additional figures or tables that can be referenced from the project report.
+Send a final report as a PDF document (max. 10 pages, min. font size 11pt) via email.
+References do not count towards the page limit. Projects can contain a link to a Github repository including the code to produce results, datasets if they can be shared, and additional figures or tables that can be referenced from the project report.
 
 Project reports should follow this structure:
 
