@@ -1,6 +1,6 @@
 ---
 title: "Course Introduction and Background"
-author: "David Garcia <br><br> *TU Graz*"
+author: "David Garcia <br><br> *University of Konstanz*"
 date: "Current Topics and Projects in Social Data Science"
 output:
   xaringan::moon_reader:
