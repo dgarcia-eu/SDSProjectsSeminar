@@ -9,30 +9,29 @@ To learn more about the projects to be developed in the course, check the [Proje
 
 ## Calendar
 
-**13.4: Introduction to the course and research background in Social Data Science** -- [[Slides]](https://dgarcia-eu.github.io/SDSProjectsSeminar/Projects_Guidance/ProjectGuidanceSlides.html)  
+**19.4: Introduction to the course and research background in SDS** -- [[Slides]](https://dgarcia-eu.github.io/SDSProjectsSeminar/Projects_Guidance/ProjectGuidanceSlides.html)  
 
-**20.4: Emotion research with digital traces**  
+**26.4: Emotion research with digital traces**
 
-**27.4: Representation issues with social media data**  
+**3.5: Representation issues with social media data**
 
-**4.5: Gender inequality in and through digital traces**  
+**10.5: Gender inequality in and through digital traces**
 
-**11.5: Complex privacy issues in digital platforms**  
+**17.5: Complex privacy issues in digital platforms**
 
-**25.5: Polarization and politicisation in social media**  
+**24.5: Polarization and politicisation in social media**
 
-**1.6: Project design feedback session**  
+**31.5: Project design feedback session**
 
-*14.6: Project registration deadline*  
+*13.6: Registration of projects deadline*
 
-**15.6, 22.6: Project guidance, discussion, and selected lectures on project-related topics**  
+**14.6: Project guidance and discussion**
 
-**29.6: Project presentations day 1**  
+*21.6: no seminar*
 
-**6.7: Project presentations day 2**  
+**28.6 and 5.7: Project presentations.** Dates depend on number of groups.
 
-*27.8: Project report deadline*
-
+*27.8: Projects report deadline*
 
 
 ## Prerequisites and evaluation
