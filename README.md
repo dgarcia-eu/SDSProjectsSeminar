@@ -11,7 +11,7 @@ To learn more about the projects to be developed in the course, check the [Proje
 
 **19.4: Introduction to the course and research background in SDS** -- [[Slides]](https://dgarcia-eu.github.io/SDSProjectsSeminar/Projects_Guidance/ProjectGuidanceSlides.html)  
 
-**26.4: Emotion research with digital traces**
+**26.4: Emotion research with digital traces** -- [[Slides]](https://dgarcia-eu.github.io/SDSProjectsSeminar/Emotions/index.html)  
 
 **3.5: Representation issues with social media data**
 
