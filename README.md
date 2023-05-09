@@ -15,7 +15,7 @@ To learn more about the projects to be developed in the course, check the [Proje
 
 **3.5: Representation issues with social media data** -- [[Slides]](https://dgarcia-eu.github.io/SDSProjectsSeminar/RepresentationIssues/RepresentationIssues.html)
 
-**10.5: Gender inequality in and through digital traces**
+**10.5: Gender inequality in and through digital traces** -- [[Slides]](https://dgarcia-eu.github.io/SocialDataScience/1_Introduction/Appendix_FacebookGenderDivide/index.html)
 
 **17.5: Complex privacy issues in digital platforms**
 
