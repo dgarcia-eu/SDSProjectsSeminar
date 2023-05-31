@@ -21,11 +21,11 @@ To learn more about the projects to be developed in the course, check the [Proje
 
 **31.5: Polarization and politicisation in social media**
 
-*13.6: Registration of projects deadline*
-
 **14.6: Project guidance and discussion**
 
 *21.6: no seminar*
+
+*27.6: Registration of projects deadline*
 
 **28.6 and 5.7: Project presentations.** Dates depend on number of groups.
 
