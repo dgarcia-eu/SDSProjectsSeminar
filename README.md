@@ -23,11 +23,13 @@ To learn more about the projects to be developed in the course, check the [Proje
 
 **14.6: Project guidance and discussion**
 
-*21.6: no seminar*
+**21.6: Project guidance and discussion**
 
-*27.6: Registration of projects deadline*
+**28.6: Project guidance and discussion**
 
-**28.6 and 5.7: Project presentations.** Dates depend on number of groups.
+*30.6: Registration of projects deadline*
+
+**5.7: Online project presentations.**
 
 *27.8: Projects report deadline*
 
